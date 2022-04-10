@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'DesafioClase18',
+    'Desafio18',
 ]
 
 MIDDLEWARE = [
